@@ -8,5 +8,8 @@
     "bundles:create": "node handleBranchHtml & open-cli ./branch-url.html"
   },
   "author": "Deep Saurabh Singh",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
 }
