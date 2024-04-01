@@ -5,7 +5,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-       Master branch 1
+       Master branch 2
       </header>
     </div>
   );
